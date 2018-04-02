@@ -1,0 +1,97 @@
+<mjml>
+
+  <mj-head>
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-section>
+      	<mj-column>
+          <mj-text font-size="20" align="center" >
+            Logo Here
+          </mj-text>
+       	</mj-column>
+      </mj-section>
+
+      <mj-section>
+      	<mj-column>
+        	<mj-image src="http://via.placeholder.com/350x150" ></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+      	<mj-column>
+        	<mj-text font-weight="700" align="left" font-size="25">
+            It's time to design your email.
+          </mj-text>
+
+          <mj-text>
+          	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+        <mj-image src="http://via.placeholder.com/350x150" width="350"></mj-image>
+          <mj-text>
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+          </mj-text>
+          <mj-button font-family="Helvetica" background-color="#f45e43" color="white">
+            View offer
+          </mj-button>
+        </mj-column>
+
+        <mj-column>
+        <mj-image src="http://via.placeholder.com/350x150" ></mj-image>
+          <mj-text>
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+          </mj-text>
+            <mj-button font-family="Helvetica" background-color="#f45e43" color="white">
+            View offer
+          </mj-button>
+        </mj-column>
+
+      </mj-section>
+
+        <mj-section>
+        <mj-column>
+        <mj-image src="http://via.placeholder.com/350x150" width="350"></mj-image>
+          <mj-text>
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+          </mj-text>
+          <mj-button font-family="Helvetica" background-color="#f45e43" color="white">
+            View offer
+          </mj-button>
+        </mj-column>
+
+        <mj-column>
+        <mj-image src="http://via.placeholder.com/350x150" ></mj-image>
+          <mj-text>
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+          </mj-text>
+            <mj-button font-family="Helvetica" background-color="#f45e43" color="white">
+            View offer
+          </mj-button>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+      	<mj-column>
+        	<mj-text align="center">
+          	Copyrights © 2018 Company Name. All Rights Reserved
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+
+</mjml>
